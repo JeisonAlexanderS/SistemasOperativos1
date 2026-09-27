@@ -1,0 +1,4 @@
+cd /SistemasOperativos1
+mkdir SistemasOperativoss
+touch SistemasOperativos_YeissonSalazar
+git add
